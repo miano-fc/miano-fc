@@ -3,7 +3,3 @@ I'm a Genomic Medicine student and TA at [Temple University](https://www.temple.
 
 🦉 Currently @ [Department of Computer and Information Sciences, Temple University](https://cis.temple.edu) & [Temple Health](https://www.templehealth.org)\
 🦅 Formerly @ [United States Air Force](https://af.mil)
-
-### What I'm currently working on 👨‍💻
-- Creating tools to analyze data from mass spectrometry-based proteomics experiments
-- Applying AI models to confocal image interpretation
