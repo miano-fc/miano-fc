@@ -1,5 +1,7 @@
 ## Howdy, I'm Michael 👋
-I'm a Genomic Medicine student and TA at [Temple University](https://www.temple.edu/) and Research Assistant in the [Cukierman laboratory](https://www.foxchase.org/edna-cukierman) at Fox Chase Cancer Center.
+I'm a PhD Student at [Temple University - Lewis Katz School of Medicine](https://www.temple.edu/)
 
-🦉 Currently @ [Department of Computer and Information Sciences, Temple University](https://cis.temple.edu) & [Temple Health](https://www.templehealth.org)\
-🦅 Formerly @ [United States Air Force](https://af.mil)
+🧫 Formerly @ [Cukierman laboratory](https://www.foxchase.org/edna-cukierman), Fox Chase Cancer Center
+🦉 Formerly @ [Department of Computer and Information Sciences, Temple University](https://cis.temple.edu)
+🦅 Formerly @ [United States Air Force AFLCMC](https://af.mil)
+
